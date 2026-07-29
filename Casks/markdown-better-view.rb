@@ -1,6 +1,6 @@
 cask "markdown-better-view" do
-  version "1.0.5"
-  sha256 "83f25fb4cb0f4a74dd93aec6d49bb6476a23ff3db802bbd225ce5aaaf152013d"
+  version "1.0.6"
+  sha256 "2602b8f5b7154017666604cf2d515d2246175fe41ab1dba519f30ef14a4b3897"
 
   url "https://github.com/MarkdownBetterView/releases/releases/download/v#{version}/MarkdownBetterView-#{version}.dmg",
       verified: "github.com/MarkdownBetterView/releases/"
